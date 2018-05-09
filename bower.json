@@ -13,13 +13,13 @@
     "dist/css/emoji-picker.css"
   ],
   "dependencies": {
-    "angular": "1.3.x",
-    "angular-sanitize": "1.3.x"
+    "angular": "^1.6.x",
+    "angular-sanitize": "^1.6.x"
   },
   "devDependencies": {
-    "angular-messages": "1.3.x",
-    "angular-mocks": "1.3.x",
-    "angular-material": "~0.9.4",
+    "angular-messages": "^1.6.x",
+    "angular-mocks": "^1.6.x",
+    "angular-material": "^1.1.4",
     "bootstrap": "3.x",
     "angular-ui-bootstrap-bower": "0.13.x",
     "angular-strap": "2.x"
@@ -42,8 +42,5 @@
     "node_modules",
     "bower_components",
     "tests"
-  ],
-  "resolutions": {
-    "angular": "1.3.x"
-  }
+  ]
 }
